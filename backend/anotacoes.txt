@@ -1,0 +1,3 @@
+Criar migration: yarn typeorm migration:create -n nome tabela
+Executar migration: yarn typeorm migration:run
+Desfazer migrations: yarn typeorm migration:revert
